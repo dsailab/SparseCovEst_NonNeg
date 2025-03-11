@@ -1,4 +1,4 @@
-# NN_Cov_Estimation
+# SparseCovEst_NonNeg
 
 We provide Python code of the proposed covariance estimation model, which includes Majorization-Minimization (MM), proximal-gradient descent algorithm and how to generate the synthetic data in the following paper to learn large covariance matrix estimation.
 
